@@ -1,23 +1,9 @@
 {
-  "pt": {
-    "start_game": "Iniciar Jogo",
-    "loading": "Carregando...",
-    "prizes": "Prêmios",
-    "history": "Histórico",
-    "welcome_message": "Bem-vindo ao Bingo!"
-  },
-  "es": {
-    "start_game": "Iniciar Juego",
-    "loading": "Cargando...",
-    "prizes": "Premios",
-    "history": "Historial",
-    "welcome_message": "¡Bienvenido al Bingo!"
-  },
-  "en": {
-    "start_game": "Start Game",
-    "loading": "Loading...",
-    "prizes": "Prizes",
-    "history": "History",
-    "welcome_message": "Welcome to Bingo!"
-  }
+    "words": {
+        "start_game": "Iniciar Juego",
+        "loading": "Cargando...",
+        "prizes": "Premios",
+        "history": "Historial",
+        "welcome_message": "¡Bienvenido al Bingo!"
+    }
 }
