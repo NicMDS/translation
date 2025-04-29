@@ -56,6 +56,7 @@
         "calendar_confirm_feedback_01": "Você recebeu",
         "calendar_confirm_feedback_02_plural": "cartelas",
         "calendar_confirm_feedback_02_singular": "cartela",
-        "calendar_confirm_feedback_03": "Bom jogo"
+        "calendar_confirm_feedback_03": "Bom jogo",
+        "calendar_confirm_continue": "Continuar"
     }
 }
