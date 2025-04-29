@@ -2,8 +2,12 @@
     "words": {
         "loading_01": "Carregando Informações...",
         "loading_02": "Aguarde...",
-        
+
         "menu_title": "Opções",
-        "welcome_message": "¡Bienvenido al Bingo!"
+        "menu_option_live": "Ao Vivo",
+        "menu_option_raffles": "Sorteios",
+        "menu_option_myprizes": "Meus Prêmios",
+        "menu_option_history": "Histórico",
+        "menu_option_narration": "Narração"
     }
 }
