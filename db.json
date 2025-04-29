@@ -30,12 +30,21 @@
 
         "calendar_title": "Calendário de Partidas",
         "calendar_content_open": "Doações Abertas",
-        "calendar_content_raffle": "Partida",
+        "calendar_content_raffle": "Sorteio",
         "calendar_content_rafflevalue": "Doação",
         "calendar_content_cards": "Cartelas",
         "calendar_content_card": "Cartela",
         "calendar_content_kuadra": "Kuadra",
         "calendar_content_kina": "Kina",
-        "calendar_content_keno": "Keno"
+        "calendar_content_keno": "Keno",
+        "calendar_getcards_raffle": "Sorteio",
+        "calendar_getcards_cardvalue": "Valor da Cartela",
+        "calendar_getcards_gottencards": "Cartelas Compradas",
+        "calendar_getcards_kuadra": "Kuadra",
+        "calendar_getcards_kina": "Kina",
+        "calendar_getcards_keno": "Keno",
+        "calendar_getcards_transactionvalue": "Valor",
+        "calendar_getcards_userbalance": "Saldo",
+        "calendar_getcards_getcards": "Doar"
     }
 }
