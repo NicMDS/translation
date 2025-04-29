@@ -14,7 +14,14 @@
         "lobby_loading_02": "Verificando dados...",
         "lobby_loading_03": "Verificando cartelas...",
         "lobby_nextmatch_wait": "Aguarde",
-        "lobby_nextmatch_label": "Próximo Sorteio"
+        "lobby_nextmatch_label": "Próximo Sorteio",
+        "lobby_nextmatch_raffle": "Sorteio",
+        "lobby_nextmatch_daytime": "Dia-Hora",
+        "lobby_nextmatch_rafflevalue": "Doação",
+        "lobby_nextmatch_kuadra": "Kuadra",
+        "lobby_nextmatch_kina": "Kina",
+        "lobby_nextmatch_keno": "Keno",
+        "lobby_nextmatch_accumulated": "Acumulado"
         
     }
 }
