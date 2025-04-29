@@ -52,6 +52,10 @@
         "calendar_confirmation_text_02_plural": "cartelas no valor de",
         "calendar_confirmation_text_02_singular": "cartela no valor de",
         "calendar_confirmation_yes": "Sim",
-        "calendar_confirmation_no": "Não"
+        "calendar_confirmation_no": "Não",
+        "calendar_confirm_feedback_01": "Você recebeu",
+        "calendar_confirm_feedback_02_plural": "cartelas",
+        "calendar_confirm_feedback_02_singular": "cartela",
+        "calendar_confirm_feedback_03": "Bom jogo"
     }
 }
