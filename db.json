@@ -26,6 +26,16 @@
         "lobby_donationmodule_donate": "Doar",
 
         "lobby_usercards_cards": "Cartelas",
-        "lobby_usercards_card": "Cartela"
+        "lobby_usercards_card": "Cartela",
+
+        "calendar_title": "Calendário de Partidas",
+        "calendar_content_open": "Doações Abertas",
+        "calendar_content_raffle": "Partida",
+        "calendar_content_rafflevalue": "Doação",
+        "calendar_content_cards": "Cartelas",
+        "calendar_content_card": "Cartela",
+        "calendar_content_kuadra": "Kuadra",
+        "calendar_content_kina": "Kina",
+        "calendar_content_keno": "Keno"
     }
 }
