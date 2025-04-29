@@ -45,6 +45,13 @@
         "calendar_getcards_keno": "Keno",
         "calendar_getcards_transactionvalue": "Valor",
         "calendar_getcards_userbalance": "Saldo",
-        "calendar_getcards_getcards": "Doar"
+        "calendar_getcards_getcards": "Doar",
+
+        "calendar_confirmation_title": "Confirmação",
+        "calendar_confirmation_text_01": "Confirmar doação para",
+        "calendar_confirmation_text_02_plural": "cartelas no valor de",
+        "calendar_confirmation_text_02_singula": "cartela no valor de",
+        "calendar_confirmation_yes": "Sim",
+        "calendar_confirmation_no": "Não"
     }
 }
