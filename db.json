@@ -21,7 +21,11 @@
         "lobby_nextmatch_kuadra": "Kuadra",
         "lobby_nextmatch_kina": "Kina",
         "lobby_nextmatch_keno": "Keno",
-        "lobby_nextmatch_accumulated": "Acumulado"
+        "lobby_nextmatch_accumulated": "Acumulado",
         
+        "lobby_donationmodule_donate": "Doar",
+
+        "lobby_usercards_cards": "Cartelas",
+        "lobby_usercards_card": "Cartela"
     }
 }
