@@ -1,9 +1,9 @@
 {
     "words": {
-        "start_game": "Iniciar Juego",
-        "loading": "Cargando...",
-        "prizes": "Premios",
-        "history": "Historial",
+        "loading_01": "Carregando Informações...",
+        "loading_02": "Aguarde...",
+        
+        "menu_title": "Opções",
         "welcome_message": "¡Bienvenido al Bingo!"
     }
 }
