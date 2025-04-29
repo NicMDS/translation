@@ -57,6 +57,11 @@
         "calendar_confirm_feedback_02_plural": "cartelas",
         "calendar_confirm_feedback_02_singular": "cartela",
         "calendar_confirm_feedback_03": "Bom jogo",
-        "calendar_confirm_continue": "Continuar"
+        "calendar_confirm_continue": "Continuar",
+
+        "calendar_usercards_title": "Minhas Cartelas",
+        "calendar_usercards_raffle": "Partida",
+        "calendar_usercards_plusvision": "Ampliar Visão",
+        "calendar_usercards_minusvision": "Reduzir Visão"
     }
 }
