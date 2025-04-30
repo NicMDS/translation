@@ -79,7 +79,12 @@
         "history_content_card": "cartela",
         "history_content_kuadra": "Kuadra",
         "history_content_kina": "Kina",
-        "history_content_keno": "Keno"
+        "history_content_keno": "Keno",
+
+        "results_modal_title": "Resultados",
+        "results_modal_raffle": "Sorteio",
+        "results_modal_card": "Cartela",
+        
 
     }
 }
