@@ -89,6 +89,11 @@
         "results_modal_title": "Resultados",
         "results_modal_raffle": "Sorteio",
         "results_modal_card": "Cartela",
-        "results_modal_prize_image": "pt"
+        "results_modal_prize_image": "pt",
+
+        "match_prizewindow_kuadra": "Kuadra",
+        "match_prizewindow_kina": "Kina",
+        "match_prizewindow_keno": "Keno",
+        "match_prizewindow_accumulated": "Acumulado",
     }
 }
