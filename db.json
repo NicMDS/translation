@@ -62,6 +62,12 @@
         "calendar_usercards_title": "Minhas Cartelas",
         "calendar_usercards_raffle": "Partida",
         "calendar_usercards_plusvision": "Ampliar Visão",
-        "calendar_usercards_minusvision": "Reduzir Visão"
+        "calendar_usercards_minusvision": "Reduzir Visão",
+
+        "userprizes_title": "Meus Prêmios",
+        "userprizes_content_info": "Informações",
+        "userprizes_content_raffle": "Sorteio",
+        "userprizes_content_prizelabel": "Premiação",
+        "userprizes_content_cardid": "ID da Cartela"
     }
 }
