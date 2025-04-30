@@ -95,5 +95,10 @@
         "match_prizewindow_kina": "Kina",
         "match_prizewindow_keno": "Keno",
         "match_prizewindow_accumulated": "Acumulado",
+
+        "match_winners_title": "Ganhadores",
+        "match_winners_kuadra": "Kuadra",
+        "match_winners_kina": "Kina",
+        "match_winners_keno": "Keno"
     }
 }
