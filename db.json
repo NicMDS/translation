@@ -68,6 +68,18 @@
         "userprizes_content_info": "Informações",
         "userprizes_content_raffle": "Sorteio",
         "userprizes_content_prizelabel": "Premiação",
-        "userprizes_content_cardid": "ID da Cartela"
+        "userprizes_content_cardid": "ID da Cartela",
+
+        "history_title": "Histórico de Partidas",
+
+        "history_content_info": "Informações",
+        "history_content_raffle": "Sorteio",
+        "history_content_value": "Doação",
+        "history_content_cards": "cartelas",
+        "history_content_card": "cartela",
+        "history_content_kuadra": "Kuadra",
+        "history_content_kina": "Kina",
+        "history_content_keno": "Keno"
+
     }
 }
