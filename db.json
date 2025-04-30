@@ -10,6 +10,11 @@
         "menu_option_history": "Histórico",
         "menu_option_narration": "Narração",
 
+        "menu_tooltip_male": "Masculino",
+        "menu_tooltip_female": "Feminino",
+        "menu_tooltip_spanish": "Espanhol",
+        "menu_tooltip_english": "Inglês",
+
         "lobby_loading_01": "Resgatando informações...",
         "lobby_loading_02": "Verificando dados...",
         "lobby_loading_03": "Verificando cartelas...",
