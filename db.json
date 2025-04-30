@@ -99,6 +99,19 @@
         "match_winners_title": "Ganhadores",
         "match_winners_kuadra": "Kuadra",
         "match_winners_kina": "Kina",
-        "match_winners_keno": "Keno"
+        "match_winners_keno": "Keno",
+
+        "match_sim_loading": "Carregando Sorteio...",
+
+        "match_prizerow_kuadra": "Kuadra",
+        "match_prizerow_kina": "Kina",
+        "match_prizerow_keno": "Keno",
+        "match_prizerow_accumulated": "Acumulado",
+
+        "match_inforow_raffle": "Sorteio",
+        "match_inforow_hour": "Hora",
+        "match_inforow_value": "Doação",
+        "match_ballindex": "Ordem"
+
     }
 }
